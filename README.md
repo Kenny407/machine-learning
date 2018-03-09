@@ -1,4 +1,9 @@
 # Machine Learning
+Machine learning experiments, and tutorials based from Google's videos of [@random-forests](https://github.com/random-forests)
+
+See full videos [here](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+
+Some of the code was not compatible with recent versions of TensorFlow (>= 1.6.0), which are updated in this repo.
 
 ## Requirements
 - Python3 (any version about 3.0.0)
@@ -11,6 +16,13 @@ Pipenv is a dependency manager for Python, just as NPM for Node. `Pipfile` and `
 `Pipfile.lock` is used for building, testing, etc.
 
 - Graphviz Installation guide [here](http://brewformulas.org/Graphviz)
+
+- TensorFlow
+Full guide from [TensorFlow website](https://www.tensorflow.org/install/])
+Note: You can also do a global installation through pip.
+```sh
+pip3 install tensorflow
+```
 
 ## Installation
 

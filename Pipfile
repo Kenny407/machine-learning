@@ -12,6 +12,9 @@ graphviz = "*"
 numpy = "*"
 sklearn = "*"
 scipy = "*"
+tensorflow = "*"
+pandas = "*"
+matplotlib = "*"
 
 
 [dev-packages]
